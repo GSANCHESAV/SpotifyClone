@@ -29,6 +29,7 @@
     {
       "id": 0,
       "title": "Papercut",
+      "duration": "3:04",
       "author": "Linkin Park",
       "album": "Hybrid Theory",
       "file": "https://s3-sa-east-1.amazonaws.com/gonative/1.mp3",
@@ -38,6 +39,7 @@
     {
       "id": 1,
       "title": "One Step Closer",
+      "duration": "2:35",
       "author": "Linkin Park",
       "album": "Hybrid Theory",
       "file": "https://s3-sa-east-1.amazonaws.com/gonative/2.mp3",
@@ -47,6 +49,7 @@
     {
       "id": 2,
       "title": "With You",
+      "duration": "3:23",
       "author": "Linkin Park",
       "album": "Hybrid Theory",
       "file": "https://s3-sa-east-1.amazonaws.com/gonative/3.mp3",
@@ -56,6 +59,7 @@
     {
       "id": 3,
       "title": "Points of Authority",
+      "duration": "3:20",
       "author": "Linkin Park",
       "album": "Hybrid Theory",
       "file": "https://s3-sa-east-1.amazonaws.com/gonative/4.mp3",
@@ -65,6 +69,7 @@
     {
       "id": 4,
       "title": "Crawling",
+      "duration": "3:29",
       "author": "Linkin Park",
       "album": "Hybrid Theory",
       "file": "https://s3-sa-east-1.amazonaws.com/gonative/5.mp3",
