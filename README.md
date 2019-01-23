@@ -18,5 +18,5 @@ Projeto utilizando ReactJS de um aplicativo clone do Spotify. No aplicativo é p
 
 ## Telas do aplicativo
 
-![Tela inicial](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/3%20-%20Tela%20inicial%20cliente.png)
-![Tela da Playlist em execução](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/4%20-%20Agendamento%20dia.png)
+![Tela inicial](https://raw.githubusercontent.com/GSANCHESAV/SpotifyClone/master/telas/Tela_inicial.png)
+![Tela da Playlist em execução](https://raw.githubusercontent.com/GSANCHESAV/SpotifyClone/master/telas/Tela_playlist.png)
